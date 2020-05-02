@@ -1,2 +1,2 @@
-mensagem = "git rm"
+mensagem = "git"
 print(mensagem)
